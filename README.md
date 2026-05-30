@@ -171,8 +171,8 @@ print(me.motto())
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-kamalesh762007%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kamalesh762007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamaleshwaran--n762007-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CodetoDream)
-[![GitHub](https://img.shields.io/badge/GitHub-kamaleshwaran--n762007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodetoDream)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamaleshwaran--n762007-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamaleshwaran-n762007)
+[![GitHub](https://img.shields.io/badge/GitHub-CodetoDream-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodetoDream)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodetoDream&color=70a5fd&style=flat-square&label=Profile+Views)
 
